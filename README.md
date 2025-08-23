@@ -8,25 +8,70 @@
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
 
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
-![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![作业20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
+![实验30%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-30%25-wheat)
+![期末考试50%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
 
 
-## 授课教师
+## 密码学基础
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+本课程为方向限选课，占2.5学分。
 
-## 关于考试
+分数构成 = 20% 作业分 + 30% 实验分 + 50% 考试分
 
-## 学习建议
+### 关于教师
+
+jl：课堂思路清晰。
+
+### 关于实验
+
+2020 年：非常硬核，需要花一些时间。
+
+2021 年：降了难度，不算硬核，部分实验会给 C 语言的 demo（给了大部分代码，只需要补全核心代码部分）。
+
+实验一：2 学时，仿射变换，如果对算法熟悉的话课上就能做得差不多；
+
+实验二：4 学时，AES 算法，老师给了 C 语言的 demo，全都自己写会比较硬核，大概要用 2-3 天；
+
+实验三：2 学时，SHA1 算法，老师也给了 C 语言的 demo，用老师给的代码课上就能写完！
+
+实验四：4 学时，RSA 算法，没有 demo，如果实验二是自己手写的，那么实验四就会比较容易（原理相通）；如果实验二用的 demo，那这个实验就要多花一点时间；
+
+实验五：4 学时，`RSA_SHA1` 数字签名，在实验三、四的基础上修改即可~
+
+2022、2023年：
+
+实验一：2 学时，AES 算法，老师给了 C 语言的 demo
+
+实验二：2 学时，RSA 算法，没有 demo
+
+实验三：2 学时，Hash长度扩展攻击，按照指导书的要求操作即可，无需编写代码
+
+实验四：2 学时，ElGamal数字签名算法，没有 demo
+
+
+### 关于考试
+
+（exam 目录中有 2021 级的回忆版试题可供参考。以下为 2019 级的考试情况。）
+
+考得不难，但是还是得好好复习的~
+
+选择、填空、判断各 10 题，各占 20 分；大题 4 题，各占 10 分。
+
+选择、填空很简单，判断题需要好好推敲。
+
+大题如果好好看了数学原理的话也挺简单的。
+
+最后一题是设计一个密码系统（其实就是实验五的题目复述一遍）。
+
+
+### Tips
+
+（以下为 2019 级的情况）
+
+数学原理那部分一定要听，因为是英文版的 PPT（不知道老师明年会不会翻译一下），所以自己学会比较吃力。
+
