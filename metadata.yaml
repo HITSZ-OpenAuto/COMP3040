@@ -1,0 +1,192 @@
+ID: "COMP3040"
+SimilarID: []
+Name: "密码学基础"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3040"
+    CourseName: "密码学基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition: []
+
+  - Major:
+      - Year: "2020_2021"
+        Name: ["计算机", "计算机（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3040"
+    CourseName: "密码学基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition: []
+
+  - Major:
+      - Year: "2021_2022"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3040"
+    CourseName: "密码学基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition: []
+
+  - Major:
+      - Year: "2022_2023"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3040"
+    CourseName: "密码学基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition: []
+
+  - Major:
+      - Year: "2023_2024"
+        Name: ["计算机", "智能强基班"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3040"
+    CourseName: "密码学基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition: []
+
+  - Major:
+      - Year: "2024_2025"
+        Name: ["计算机", "计算机（第二学士学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3040"
+    CourseName: "密码学基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition: []
+
+  - Major:
+      - Year: "2025_2026"
+        Name: ["计算机", "计算机（第二学士学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3040"
+    CourseName: "密码学基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition: []
