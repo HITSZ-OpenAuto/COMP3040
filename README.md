@@ -1,4 +1,6 @@
 # COMP3040 - 密码学基础
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
@@ -8,9 +10,13 @@
 ## 授课教师
 
 - 蒋林
+  <!-- TOML-ITEM: id="review-蒋林-1" -->
   - 课堂思路清晰。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 （exam 目录中有 2021 级的回忆版试题可供参考。以下为 2019 级的考试情况。）
 
@@ -22,6 +28,9 @@
 - 最后一题是设计一个密码系统（其实就是实验五的题目复述一遍）。
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 **2020 年**：非常硬核，需要花一些时间。
 
@@ -41,6 +50,9 @@
 - 实验四：2 学时，ElGamal数字签名算法，没有 demo
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 2019 级的情况：
 数学原理那部分一定要听，因为是英文版的 PPT（不知道老师明年会不会翻译一下），所以自己学会比较吃力。
