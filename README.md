@@ -9,6 +9,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 蒋林
   <!-- TOML-ITEM: id="review-蒋林-1" -->
   - 课堂思路清晰。

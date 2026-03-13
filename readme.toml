@@ -1,15 +1,14 @@
 course_name = "密码学基础"
-repo_type = "normal"
 course_code = "COMP3040"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "蒋林"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "课堂思路清晰。"
-
 
 [[sections]]
 title = "关于考试"
