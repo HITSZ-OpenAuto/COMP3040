@@ -1,4 +1,0 @@
-category: 限选
-module: 网络与信息安全方向
-semester: 第三学年秋季
-name: 密码学基础
