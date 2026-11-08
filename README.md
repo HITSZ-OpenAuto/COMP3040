@@ -7,6 +7,8 @@
 - 蒋林
   <!-- TOML-ITEM: id="review-蒋林-1" -->
   - 课堂思路清晰。
+- 徐国爱
+
 
 ## 关于考试
 <!-- TOML-SECTION: title="关于考试" -->
