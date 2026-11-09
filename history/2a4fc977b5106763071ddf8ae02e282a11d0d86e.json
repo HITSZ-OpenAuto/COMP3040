@@ -1,0 +1,167 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022847,
+    "hash": "a95217e555a4961d67c19088ae5a71314a3351ad"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754203839,
+    "hash": "e7f9fd33eabb9c4dfd7d668d7ccea73e48f84bc8"
+  },
+  "README.md": {
+    "size": 2327,
+    "time": 1794228857,
+    "hash": "2a4fc977b5106763071ddf8ae02e282a11d0d86e"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754203839,
+    "hash": "e7f9fd33eabb9c4dfd7d668d7ccea73e48f84bc8"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754203839,
+    "hash": "e7f9fd33eabb9c4dfd7d668d7ccea73e48f84bc8"
+  },
+  "exams/2023秋密码学基础期末回忆版.pdf": {
+    "size": 482748,
+    "time": 1757413274,
+    "hash": "594272eb5e76597bc23f1ac367256845f8b8e19c"
+  },
+  "exams/readme.md": {
+    "size": 271,
+    "time": 1755961481,
+    "hash": "51fae351e367b9c8d76689437a3d7523ca6966e7"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754203839,
+    "hash": "e7f9fd33eabb9c4dfd7d668d7ccea73e48f84bc8"
+  },
+  "labs/2024_hugh/lab1-AES.7z": {
+    "size": 2491227,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "labs/2024_hugh/lab2-RSA.7z": {
+    "size": 3153526,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "labs/2024_hugh/lab3-hash.7z": {
+    "size": 2063658,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "labs/2024_hugh/lab4-PSI.7z": {
+    "size": 2094858,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754203839,
+    "hash": "e7f9fd33eabb9c4dfd7d668d7ccea73e48f84bc8"
+  },
+  "notes/2020_LoanCold/密码学笔记.pdf": {
+    "size": 1465885,
+    "time": 1755961481,
+    "hash": "51fae351e367b9c8d76689437a3d7523ca6966e7"
+  },
+  "notes/2021_xinyao_yan/README.md": {
+    "size": 571,
+    "time": 1755961481,
+    "hash": "51fae351e367b9c8d76689437a3d7523ca6966e7"
+  },
+  "notes/2021_xinyao_yan/密码学期末复习.pdf": {
+    "size": 22264586,
+    "time": 1755961481,
+    "hash": "51fae351e367b9c8d76689437a3d7523ca6966e7"
+  },
+  "readme.toml": {
+    "size": 2245,
+    "time": 1794228857,
+    "hash": "2a4fc977b5106763071ddf8ae02e282a11d0d86e"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754203839,
+    "hash": "e7f9fd33eabb9c4dfd7d668d7ccea73e48f84bc8"
+  },
+  "slides/2024_hugh/密码学基础 第10讲 公钥密码体制（二）（2026年9月30日）0.5.pdf": {
+    "size": 16255112,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第11讲 哈希函数（2026年10月19日）0.8.pdf": {
+    "size": 12684525,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第12讲 数字签名（2026年10月19日）0.7.pdf": {
+    "size": 16264630,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第13讲 后量子密码（2026年10月21日） 0.5（付希明提供）.pdf": {
+    "size": 1983237,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第14讲 密钥管理（2026年10月24日） 1.0.pdf": {
+    "size": 11197570,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第15讲 虚拟专用网（2026年10月26日）0.5.pdf": {
+    "size": 4271294,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第1讲 密码学概述（2026年8月31日）v1.0.pdf": {
+    "size": 4308015,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第2讲 数学基础（一）（2026年9月2日）v1.0.pdf": {
+    "size": 6614158,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第3讲 数学基础（二）（2026年9月7日）0.6.pdf": {
+    "size": 13213310,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第4讲 传统密码技术（2026年9月9日）v0.8.pdf": {
+    "size": 24365239,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第5讲 数据加密标准（2026年9月14日）v1.0.pdf": {
+    "size": 19877310,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第6讲 高级加密标准（2026年9月16日）0.9.pdf": {
+    "size": 7558398,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第7讲 分组密码模式（2026年9月21日）1.2.pdf": {
+    "size": 22743406,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第8讲 序列密码（2026年9月23日）0.9.pdf": {
+    "size": 8747559,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  },
+  "slides/2024_hugh/密码学基础 第9讲 公钥密码体制（一）（2026年9月28日）0.6.pdf": {
+    "size": 13899037,
+    "time": 1794228840,
+    "hash": "1abb975a7a08c2a5e38e69a62b600f8f617dc9f6"
+  }
+}
